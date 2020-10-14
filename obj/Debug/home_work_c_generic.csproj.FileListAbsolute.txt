@@ -1,0 +1,7 @@
+C:\Users\Kolotyuk\source\repos\home_work_c_generic\home_work_c_generic\bin\Debug\home_work_c_generic.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_c_generic\home_work_c_generic\bin\Debug\home_work_c_generic.exe
+C:\Users\Kolotyuk\source\repos\home_work_c_generic\home_work_c_generic\bin\Debug\home_work_c_generic.pdb
+C:\Users\Kolotyuk\source\repos\home_work_c_generic\home_work_c_generic\obj\Debug\home_work_c_generic.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_c_generic\home_work_c_generic\obj\Debug\home_work_c_generic.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_c_generic\home_work_c_generic\obj\Debug\home_work_c_generic.exe
+C:\Users\Kolotyuk\source\repos\home_work_c_generic\home_work_c_generic\obj\Debug\home_work_c_generic.pdb
